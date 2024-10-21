@@ -34,4 +34,4 @@
 </div>
 
 
-# <div align="center">![HOME][Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
