@@ -1,8 +1,7 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 # <div align="center">OpenCV of Introduction</div>
 
 
-![image](./img/opencv.png)
+![image](./opencv.png)
 
 ## 中文介紹
 - OpenCV（全稱Open Source Computer Vision Library）是一個開源的計算機視覺庫，旨在提供一系列用於處理圖像和視頻的功能。它最初由Intel於1999年開發，並在後來得到了廣泛的社區支持和貢獻。OpenCV支持多個編程語言，如C++、Python、Java等，使其可以在不同平台上運行。  
@@ -81,4 +80,4 @@ $ sudo apt-get install python3-dev python3-pip python3-numpy
 ```
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
