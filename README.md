@@ -20,8 +20,8 @@
  - [MobaXterm of Introduction(遠端計算機管理工具介紹)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/other/MobaXterm)
  - [VScode of Introduction(程式碼編輯器介紹)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/other/Visual_Studio_Code/README.md) 
    #### Programming(程式設計)
-   - [Open Challenge Program Explanation(資格賽程式說明)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/src/Programming/Open_Challenge)
-   - [Obstacle Challenge Program Explanation(障礙賽程式說明)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/src/Programming/Obstacle_Challenge)  
+   - [Open Challenge Program Explanation(資格賽程式說明)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/src/Programming/Open_Challenge/README.md)
+   - [Obstacle Challenge Program Explanation(障礙賽程式說明)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/src/Programming/Obstacle_Challenge/README.md)  
 
    #### Image Processing and Predictions
  - [Image Preprocessing(圖像預處理)](https://github.com/yichengtsai/future_enguneers_2023/blob/main/src/Image%20Preprocessing/README.md)
