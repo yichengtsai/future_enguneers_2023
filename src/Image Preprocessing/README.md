@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 # <div align="center">Image Preprocessing(圖像預處理)</div> 
 
 ## 中文
@@ -11,12 +10,12 @@ In our vehicle system, we utilize the image processing capabilities of the OpenC
   
 |Adjusting Green Traffic Sign HSV Value Range(調整綠色交通標誌HSV數值範圍)|Adjusting Red Traffic Sign HSV Value Range(調整紅色交通標誌HSV數值範圍)|
 |:----:|:----:|
-| <img src="./img/HSVGreen.png" width = "300" height = "470" alt="green_HSV" align=center />| <img src="./img/HSVRed.png" width = "300" height = "470" alt="red_HSV" align=center /> | 
+| <img src="./HSVGreen.png" width = "300" height = "470" alt="green_HSV" align=center />| <img src="./HSVRed.png" width = "300" height = "470" alt="red_HSV" align=center /> | 
 
 
 |Traffic Sign Image Recognition(影像辨識交通標誌)|
 |:----:|
-|<div align="center"><img src="./img/Image_Recognition_Blocks.png" width = 650 height = "300" alt="red_HSV" align=center /></div>|
+|<div align="center"><img src="./Image_Recognition_Blocks.png" width = 650 height = "300" alt="red_HSV" align=center /></div>|
 
 </div>
 
@@ -28,4 +27,4 @@ min_red = [130, 100, 90]
 max_red = [255, 215, 225]
 ```
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
