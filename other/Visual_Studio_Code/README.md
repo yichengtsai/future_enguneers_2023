@@ -1,9 +1,8 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">VSCode of Introduction(VSCode的介紹)</div> 
 
 
 <div align="center"> 
-<img src="./img/code.png" width = "500"  alt="CODE" align=center />
+<img src="./code.png" width = "500"  alt="CODE" align=center />
 
 </div> 
 
@@ -27,5 +26,5 @@ __Therefore, the programs for this competition are all written using the VS Code
 
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div> 
+# <div align="center">[Return Home](../../)</div> 
 
