@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">MobaXterm of Introduction(MobaXterm的介紹)</div> 
 
 ## 中文介紹  
@@ -18,4 +17,4 @@ This tool offers a unified interface that enables you to manage multiple remote 
 The combination of MobaXterm's English interface and rich features makes it an ideal choice for developers, system administrators, and networking professionals. Whether you are working from home or in the office, MobaXterm makes it easy to manage remote computers effectively.
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div> 
+# <div align="center">[Return Home](../../)</div> 
