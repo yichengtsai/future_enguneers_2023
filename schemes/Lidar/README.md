@@ -1,7 +1,7 @@
 # <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">D100 Lidar of Introduction(D100 光達介紹)</div> 
 
-<div align="center"><img src="./img/D100_LiDAR.png" alt="D100 Lidar" width="400" height="300"></div> 
+<div align="center"><img src="./D100_LiDAR.png" alt="D100 Lidar" width="400" height="300"></div> 
 
 ### 中文
 - D100 激光雷達是一款先進的、尖端的光達測距系統，專為高精度環境地圖繪製和感測應用而設計。光達技術利用激光進行測距，並創建出詳細的三維景觀、物體和周圍環境的表示。  
@@ -52,4 +52,4 @@ The D100 Lidar offers exceptional performance and versatility, making it a valua
 4. Distance Calculation: By knowing the propagation speed of light in the air (usually the speed of light), the Lidar system uses TOF to calculate the distance between the laser beam and the target area or object. The distance is obtained by multiplying TOF with the speed of light.
 5. Scanning and Synthesis: The Lidar system may emit the laser beam from different angles and directions to obtain multiple points of the target area. By combining the data from these points, the Lidar system can create a three-dimensional map or scene of the target area.
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
