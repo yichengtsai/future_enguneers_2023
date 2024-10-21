@@ -1,4 +1,3 @@
-# <div align="center"><img src=../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 # <div align="center">Performance videos(完整的影片)</div> 
 
 
@@ -30,4 +29,4 @@
 ## Video of Introduction 影片講解
 [![Fire in Half 障礙賽解說](./img/Fire_in_HAlf_escribe.jpg)](https://youtu.be/99KOlNN_V5g "Fire in Half 障礙賽解說")
 
-# <div align="center">![HOME](../other/img/Home.jpg)[Return Home](../)</div>  
+# <div align="center">[Return Home](../)</div>  
