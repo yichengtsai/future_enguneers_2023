@@ -1,5 +1,3 @@
-![HOME](../../other/img/logo.jpg)2023WRO Future Engineers Fire In Half
-====
 ## <div align="center">Pillar Steering(支柱轉向)</div> 
 
 ### 中文
@@ -22,7 +20,7 @@ for pic, contour in enumerate(contours):
 
 |Traffic sign coordinates(交通標誌座標)|Error value(誤差值)|
 |:----:|:----:|
-|<div align="center"><img src="./img/red_X_Y.png" width = 200 height = "300" alt="red_x_y" align=center />|<div align="center"><img src="./img/error.png" width = 200 height = "300" alt="error_value" align=center />|
+|<div align="center"><img src="./red_X_Y.png" width = 200 height = "300" alt="red_x_y" align=center />|<div align="center"><img src="./error.png" width = 200 height = "300" alt="error_value" align=center />|
 </div>
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
