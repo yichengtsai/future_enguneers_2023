@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Vehicle Circuit Design (汽車電路設計)</div>
 
 ### Entity Circuit(實體電路)
@@ -6,7 +5,7 @@
 
 |實體 正面|實體 反面|
 |:----:|:----:|
-|![image](./img/IMG_2694.JPG)|![image](./img/IMG_2693.JPG)|
+|![image](./IMG_2694.JPG)|![image](./IMG_2693.JPG)|
 </div>
 
 ### Design Blueprint(設計圖)
@@ -14,7 +13,7 @@
 
 |設計圖 正面|設計圖 反面|概要圖|
 |:----:|:----:|:----:|
-|![image](./img/IMG_2696.JPG)|![image](./img/IMG_2695.JPG)|![image](./img/IMG_2697.PNG)|
+|![image](./IMG_2696.JPG)|![image](./IMG_2695.JPG)|![image](./IMG_2697.PNG)|
 </div>
 
 ### Making software introduction(製作軟體介紹)
@@ -39,4 +38,4 @@ Here are the main features and functions of Fritzing:
 5. Code View: In addition to the graphical interface, Fritzing provides a code view where users can view and edit related Arduino code.  
 6. Export and Sharing: Users can export their circuit diagrams, breadboard views, and PCB designs and share them with others.  
 7. Cross-Platform Support: Fritzing is compatible with multiple platforms, including Windows, macOS, and Linux.  
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div> 
+# <div align="center">[Return Home](../../)</div> 
