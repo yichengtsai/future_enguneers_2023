@@ -87,7 +87,7 @@ Finally, pressing the button once more will trigger the program to read the valu
 
 |Recorded Color Sensor Values(顏感紀錄的數值)|
 |:----:|
-|<img src="./img/record_line.png" width = "250" height = "200" alt="record_line" align=center />|
+|<img src="./record_line.png" width = "250" height = "200" alt="record_line" align=center />|
 
 </div>
 
