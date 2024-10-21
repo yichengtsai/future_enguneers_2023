@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 # <div align="center">ROS of Introduction(ROS系統介紹)</div> 
 ## 中文介紹
 
@@ -78,4 +77,4 @@ sudo src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release --
 Reference URL: https://varhowto.com/install-ros-noetic-raspberry-pi-4/#5_Steps_to_Install_ROS_Noetic_on_Raspberry_Pi_4
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
