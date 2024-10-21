@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Software Platform (軟體平台)</div> 
 
 - ## System platform software installation(系統平台軟體安裝)
@@ -11,8 +10,8 @@
   <tr>
     <th>使用SSH連線樹莓派</th><th>使用VNC連線樹莓派</th>
   </tr><tr>
-    <td><img src="./img/ssh.png" alt="car view" width="400"></td>
-    <td><img src="./img/VNC.png" alt="car view" width="400"></td>
+    <td><img src="./ssh.png" alt="car view" width="400"></td>
+    <td><img src="./VNC.png" alt="car view" width="400"></td>
   <tr>
   </tr>
 </table>
@@ -114,11 +113,11 @@ Number 5: Record the current green threshold values to the record_HSVGreen.py fi
 
 |Display the numeric keys functionality(顯示鍵盤數字功能)|
 |:----:|
-|<img src="./img/Display.png" width = "350" height = "200" alt="Display_keyboard" align=center />|
+|<img src="./Display.png" width = "350" height = "200" alt="Display_keyboard" align=center />|
 
 |HSV Filtering for Red Traffic Signs(HSV過濾紅色交通標誌)|HSV Filtering for Green Traffic Signs(HSV過濾綠色交通標誌)|
 |:----:|:----:|
-|<img src="./img/redhsv.png" width = "300" height = "480" alt="redhsv" align=center />|<img src="./img/green_hsv.png" width = "300" height = "480" alt="green_hsv" align=center />|
+|<img src="./redhsv.png" width = "300" height = "480" alt="redhsv" align=center />|<img src="./img/green_hsv.png" width = "300" height = "480" alt="green_hsv" align=center />|
 
 </div>
 
@@ -126,9 +125,9 @@ Number 5: Record the current green threshold values to the record_HSVGreen.py fi
   
 |Environmental Measurement Process Diagram(環境數值測量流程圖)|
 |:----:|
-|<img src="./img/Environmental_preparation.png" width = "750" height = "150" alt="Environmental_preparation" align=center />|
+|<img src="./Environmental_preparation.png" width = "750" height = "150" alt="Environmental_preparation" align=center />|
   
 </div>
  
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
