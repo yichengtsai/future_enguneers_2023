@@ -1,10 +1,8 @@
-# <div align="center"><img src=../../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
-
 ## <div align="center">Open Challenge Program Explanation(資格賽程式說明)</div> 
 
 ### Open Challenge Flowchart(資格賽程式流程圖)
 
-<img src="./img/open_challenge_flowchart.png" alt="Open Challenge Flowchart" class="center-image" width=100% height="350" >
+<img src="./open_challenge_flowchart.png" alt="Open Challenge Flowchart" class="center-image" width=100% height="350" >
 
 #### 中文
 - 在競賽中，車輛在行進時需要進行對立柱顏色的影像辨識，以實施避障策略。為實現這一目標，我們利用樹莓派支援的鏡頭模組，進行影像辨識功能的開發。同時，我們也使用樹莓派來控制馬達，以及進行光達距離的偵測。所有這些功能都是透過Python語言來實現的，這使得控制過程更加便捷。  
@@ -22,8 +20,8 @@
   <tr>
     <th>以MobaXterm中SSH編輯程式</th><th>以MobaXterm中VNC編輯程式</th>
   </tr><tr>
-    <td><img src="./img/ssh_main.png" alt="ssh_main" width="300"></td>
-    <td><img src="./img/vnc_main.png" alt="vnc_main" width="300"></td>
+    <td><img src="./ssh_main.png" alt="ssh_main" width="300"></td>
+    <td><img src="./vnc_main.png" alt="vnc_main" width="300"></td>
   <tr>
   </tr>
 </table>
@@ -107,4 +105,4 @@ This code is a function that utilizes a Raspberry Pi along with various sensors 
 #### English
 This code enables the vehicle to maintain a certain distance from both side walls and detect blue and orange lines on the floor using color sensor readings to determine its direction. This allows the vehicle to complete its task.
 
-# <div align="center">![HOME](../../../other/img/Home.jpg)[Return Home](../../../)</div>  
+# <div align="center">[Return Home](../../../)</div>  
