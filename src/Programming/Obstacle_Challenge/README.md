@@ -20,8 +20,8 @@
   <tr>
     <th>以MobaXterm中SSH編輯程式</th><th>以MobaXterm中VNC編輯程式</th>
   </tr><tr>
-    <td><img src="../Open_Challenge/img/ssh_main.png" alt="ssh_main" width="300"></td>
-    <td><img src="../Open_Challenge/img/vnc_main.png" alt="vnc_main" width="300"></td>
+    <td><img src="../Open_Challenge/ssh_main.png" alt="ssh_main" width="300"></td>
+    <td><img src="../Open_Challenge/vnc_main.png" alt="vnc_main" width="300"></td>
   <tr>
   </tr>
 </table>
