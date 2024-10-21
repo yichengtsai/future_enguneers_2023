@@ -1,9 +1,5 @@
 Engineering materials
 ====
-# <div align="center">![Gantt chart](./other/plan/img/Gantt_Chart.png)</div> 
-__在本競賽活動中，技術文件以結構清晰的目錄形式展示，並按照競賽評分準則進行了精心的編排。這種方式使得評審能夠輕鬆地點擊各個章節標題，便捷地進入文章說明內容。這樣的設計讓評審能夠迅速把握技術文件的關鍵亮點和重點內容。__
-
-__In this competition event, the technical documentation is presented in a well-structured format, meticulously organized according to the competition evaluation criteria. This approach enables judges to effortlessly click on various section headings, conveniently navigating into the content of the articles' explanations. Such a design allows judges to quickly grasp the key highlights and essential content of the technical documentation.__
 ## <div align="center">Content 目錄</div> 
   ### 1. Mobility Management(移動性管理)
    - [Motor Performance Parameters(馬達性能參數)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/schemes/Motor_Performance_Parameters/README.md)
