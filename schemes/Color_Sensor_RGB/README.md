@@ -1,7 +1,6 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">TCS34725 Color sensor of Introduction(TCS34725 顏色感測器介紹)</div> 
 
-<div align="center"><img src="./img/TCS34725_RGB.png" alt="D100 Lidar" width="300"></div> 
+<div align="center"><img src="./TCS34725_RGB.png" alt="D100 Lidar" width="300"></div> 
 
 ### 中文
 在比賽中，偵測場地上的橘色線與藍色線對我們的機型來說也是非常重要的一環。透過感測這些線的顏色，我們的機型可以判斷是要往順時針跑還是逆時針跑，進而順利完成任務。此外，我們還可以利用這些感測器計算測到線的次數，從而得知機型跑了多少圈，這有助於我們更好地掌握進度。  
@@ -26,5 +25,5 @@ The TCS34725 Color Sensor RGB possesses the following features:
 5.Compact and lightweight: Its small size and lightweight design make it a suitable choice for our robot's integration.  
 
 __Given these features, we have made the decision to use the TCS34725 Color Sensor RGB as our sensor for detecting the orange and blue lines on the track.__
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
 
