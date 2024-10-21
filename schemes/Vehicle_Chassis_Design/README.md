@@ -1,5 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
-
 ## <div align="center">Vehicle Chassis Design (汽車底盤設計)</div> 
 
 ##  Gear Differential (車輛底盤實體照)
@@ -10,8 +8,8 @@
   <th>車輛底盤(反面)</th>
  </tr>
  <tr align="center">
-  <td> <img src="./img/Vehicle Chassis (front view).png" width="500" alt="車輛底盤(正面)" ></td>
-  <td> <img src="./img/Vehicle Chassis (underside).png" width="500" alt="車輛底盤(反面)"></td>
+  <td> <img src="./Vehicle Chassis (front view).png" width="500" alt="車輛底盤(正面)" ></td>
+  <td> <img src="./Vehicle Chassis (underside).png" width="500" alt="車輛底盤(反面)"></td>
  </tr>
 </table>
 </div>
@@ -21,11 +19,11 @@
 
 <div align="center">
  
-![image](./img/motor&differential.png)
+![image](./motor&differential.png)
 </div>
 
 ##  Gear Differential (齒輪差速器)
-<div align="center">   <img src="./img/differential.png" width="500" > </div>
+<div align="center">   <img src="./differential.png" width="500" > </div>
 
 __差速器的主要功能如下：__
 
@@ -49,8 +47,8 @@ __The differential is typically composed of a gear mechanism that allows the whe
   <th>阿克曼機構(反面)</th>
  </tr>
  <tr align="center">
-  <td> <img src="./img/Ackermann Mechanism (front view).png" width="500" alt="阿克曼機構(正面).png" ></td>
-  <td> <img src="./img/Ackermann Mechanism (underside).png" width="500" alt="阿克曼機構(反面)"></td>
+  <td> <img src="./Ackermann Mechanism (front view).png" width="500" alt="阿克曼機構(正面).png" ></td>
+  <td> <img src="./Ackermann Mechanism (underside).png" width="500" alt="阿克曼機構(反面)"></td>
  </tr>
 </table>
 </div>
@@ -80,4 +78,4 @@ The main principles of Ackermann Steering are as follows:
 
 The advantages of Ackermann Steering are that it provides a smaller turning radius and improves steering stability. This is crucial for maneuvering in tight spaces and making high-speed turns. Designers must ensure that the geometry and lengths of the steering linkage and other related components are appropriate to achieve the correct functioning of Ackermann Steering.
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
