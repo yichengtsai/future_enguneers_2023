@@ -29,13 +29,10 @@ Engineering materials
  - [Wall Steering(壁面轉向)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/src/Wall_Steering/README.md)
  - [Pillar Steering(支柱轉向)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/src/Pillar_Steering/README.md)
  - [Slalom Steering(迴轉轉向)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/src/Slalom_Steering/README.md)
-### 4. Pictures - Team and vehicle(圖片 - 團隊和汽車)
+### 4. Pictures - Team and vehicle(圖片 - 汽車)
   - [Vehicle Photos(自駕車各視角圖)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/v-photos/README.md)
-  - [Team Photos(團隊成員介紹)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/t-photos/README.md)
 ### 5. Performance videos(完整的影片)
   - [Demonstration Video(汽車各任務完成影片)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/video/video.md)
 ### 6. GitHub Utilization(使用GitHub)
-### 7. Engineering Factors(工程因素/技術條件)1
-  - [Work Diary(工作日誌)](https://github.com/kirkhu/WRO2023_Future-Engineers-Fire_In_Half/blob/main/other/Work_Diary/README.md)
   
 
