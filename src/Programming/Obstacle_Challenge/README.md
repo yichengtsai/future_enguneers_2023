@@ -1,9 +1,8 @@
-# <div align="center"><img src=../../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Obstacle Challenge Program Explanation(障礙賽程式說明)</div> 
 
 ### Obstacle Challenge Flowchart(任務賽程式流程圖)
 
-<img src="./img/obstacle_challenge_flowchart.png" alt="Obstacle Challenge Flowchart" class="center-image" width=100% height="700" >
+<img src="./obstacle_challenge_flowchart.png" alt="Obstacle Challenge Flowchart" class="center-image" width=100% height="700" >
 
 #### 中文
 - 在競賽中，車輛在行進時需要進行對立柱顏色的影像辨識，以實施避障策略。為實現這一目標，我們利用樹莓派支援的鏡頭模組，進行影像辨識功能的開發。同時，我們也使用樹莓派來控制馬達，以及進行光達距離的偵測。所有這些功能都是透過Python語言來實現的，這使得控制過程更加便捷。  
@@ -118,4 +117,4 @@ This code is a function that utilizes a Raspberry Pi along with various sensors 
 #### English
 This code is a Python script that controls the vehicle using multiple sensors and modules, including OpenCV, ROS (Robot Operating System), DC motors, servo motors, and a color sensor. It utilizes these functionalities to enable the vehicle to avoid traffic signs and complete its mission.
 
-# <div align="center">![HOME](../../../other/img/Home.jpg)[Return Home](../../../)</div>  
+# <div align="center">[Return Home](../../../)</div>  
