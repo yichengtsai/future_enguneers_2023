@@ -2,8 +2,6 @@
 
 ### Obstacle Challenge Flowchart(任務賽程式流程圖)
 
-<img src="./obstacle_challenge_flowchart.png" alt="Obstacle Challenge Flowchart" class="center-image" width=100% height="700" >
-
 #### 中文
 - 在競賽中，車輛在行進時需要進行對立柱顏色的影像辨識，以實施避障策略。為實現這一目標，我們利用樹莓派支援的鏡頭模組，進行影像辨識功能的開發。同時，我們也使用樹莓派來控制馬達，以及進行光達距離的偵測。所有這些功能都是透過Python語言來實現的，這使得控制過程更加便捷。  
 - 我們可以運用MobaXterm工具中的SSH或VNC功能，連線至樹莓派，以Python撰寫車輛控制程式。 
