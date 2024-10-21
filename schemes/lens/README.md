@@ -1,4 +1,3 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Lens of Introduction(鏡頭介紹)</div> 
 
 ### Lens Modle Selection(鏡頭模組選擇)
@@ -19,21 +18,21 @@
   </tr>
   <tr>
     <td>3.6mm Lens Raspberry Pi 5MP IR Camera</td>
-    <td><img src=./img/IMG_2642.png width=300/></td>
+    <td><img src=./IMG_2642.png width=300/></td>
     <td>30fps</td>
     <td>500萬像素</td>
     <td>OV5647</td>
   </tr>
   <tr>
     <td>Raspberry Pi Camera Moudule V2</td>
-    <td><img src=./img/IMG_2643.png width=300/></td>
+    <td><img src=./IMG_2643.png width=300/></td>
     <td>90fps</td>
     <td>800萬像素</td>
     <td>Sony IMX708</td>
   </tr>
    <tr>
     <td>Raspberry Pi camera V3</td>
-    <td><img src=./img/IMG_2644.png width=300/></td>
+    <td><img src=./IMG_2644.png width=300/></td>
     <td>90fps</td>
     <td>1190萬像素</td>
     <td>Sony IMX708</td>
@@ -51,8 +50,8 @@
   <tr>
     <th>Raspberry Pi Camera Moudule V2</th><th>IMX219廣角攝影鏡頭</th>
   </tr><tr>
-    <td><img src="./img/IMG_2643.png" alt="car view" width="400"></td>
-    <td><img src="./img/IMX219_160.png" alt="IMX219廣角160度攝影鏡頭" width="300"></td>
+    <td><img src="./IMG_2643.png" alt="car view" width="400"></td>
+    <td><img src="./IMX219_160.png" alt="IMX219廣角160度攝影鏡頭" width="300"></td>
   <tr>
   </tr>
 </table>
@@ -78,11 +77,11 @@ In the Raspberry Pi settings, we have the option to choose from three different 
   <tr>
     <th>二代鏡頭畫面(無廣角)</th><th>二代鏡頭畫面(廣角)</th>
   </tr><tr>
-    <td><img src="./img/V2_not.png" alt="二代畫面(無廣角)" width="300"></td>
-    <td><img src="./img/V2_160.png" alt="二代畫面(廣角)" width="300"></td>
+    <td><img src="./V2_not.png" alt="二代畫面(無廣角)" width="300"></td>
+    <td><img src="./V2_160.png" alt="二代畫面(廣角)" width="300"></td>
   <tr>
   </tr>
 </table>
 </div>
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
