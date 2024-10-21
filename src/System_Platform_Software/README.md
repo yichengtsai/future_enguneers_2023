@@ -68,7 +68,7 @@ Add necessary environment variables for the Lidar.
   
 |System Installation Process Flowchart(架設系統環境流程圖)|
 |:----:|
-|![images](./img/Software_Flowchart.png)|
+|![images](./Software_Flowchart.png)|
   
 </div>
 
@@ -117,7 +117,7 @@ Number 5: Record the current green threshold values to the record_HSVGreen.py fi
 
 |HSV Filtering for Red Traffic Signs(HSV過濾紅色交通標誌)|HSV Filtering for Green Traffic Signs(HSV過濾綠色交通標誌)|
 |:----:|:----:|
-|<img src="./redhsv.png" width = "300" height = "480" alt="redhsv" align=center />|<img src="./img/green_hsv.png" width = "300" height = "480" alt="green_hsv" align=center />|
+|<img src="./redhsv.png" width = "300" height = "480" alt="redhsv" align=center />|<img src="./green_hsv.png" width = "300" height = "480" alt="green_hsv" align=center />|
 
 </div>
 
