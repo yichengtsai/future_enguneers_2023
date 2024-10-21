@@ -1,4 +1,3 @@
-# <div align="center"><img src=../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">3D/2D model design drawing(3D/2D模型設計圖稿)</div>
 
 ### 中文
@@ -16,7 +15,7 @@
 
 ## <div align="center"> 2D laser cutting design drawing(雷射切割2D設計圖) 
 
-<img src="./img/2D.png" width="450"> <img src="./img/IMG_7965.JPG" width="450">  
+<img src="./2D.png" width="450"> <img src="./IMG_7965.JPG" width="450">  
 
 
 <div align="center">
@@ -30,12 +29,12 @@
 <th>Low Voltage Alarm Socket(低電壓緊報器座)</th>
 </tr>
 <tr>
-<td><img src="./img/IMG_2733-removebg-preview.png" width="450"></td>
-<td><img src="./img/IMG_7963-removebg-preview.png" width="450"></td>
-<td><img src="./img/Lower level.png" width="450"></td>
-<td><img src="./img/IMG_7964-removebg-preview.png" width="450"></td>
+<td><img src="./IMG_2733-removebg-preview.png" width="450"></td>
+<td><img src="./IMG_7963-removebg-preview.png" width="450"></td>
+<td><img src="./Lower level.png" width="450"></td>
+<td><img src="./IMG_7964-removebg-preview.png" width="450"></td>
 </tr>
 </table>
 </div>
 
-# <div align="center">![HOME](../other/img/Home.jpg)[Return Home](../)</div>  
+# <div align="center">[Return Home](../)</div>  
