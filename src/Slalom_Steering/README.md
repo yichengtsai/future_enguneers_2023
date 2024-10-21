@@ -1,5 +1,3 @@
-![HOME](../../other/img/logo.jpg)2023WRO Future Engineers Fire In Half
-====
 ## <div align="center">Slalom Steering(迴轉轉向)</div> 
 
 ### 中文
@@ -18,7 +16,7 @@ if final_obstacle == 'red':
 
 |Read the number of lines and record the color of the traffic sign(讀取線條數量與紀錄交通標誌顏色)|
 |:----:|
-|<div align="center"><img src="./img/steering.png" width = 250 height = "300" alt="steering" align=center />|
+|<div align="center"><img src="./steering.png" width = 250 height = "300" alt="steering" align=center />|
 </div>
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
