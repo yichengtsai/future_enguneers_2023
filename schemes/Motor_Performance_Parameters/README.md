@@ -1,4 +1,3 @@
-# <div align="center">2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Motor Performance Parameters(馬達性能參數)</div>
 
 ### Rear-wheel drive DC motor(後驅直流馬達)
