@@ -1,5 +1,3 @@
-![HOME](../../other/img/logo.jpg)2023WRO Future Engineers Fire In Half
-====
 ## <div align="center">Wall Steering(壁面轉向)</div> 
 
 ### 中文
@@ -14,8 +12,8 @@ We use the D100 Lidar to communicate with the Raspberry Pi through the serial po
 
 |Read Lidar Values(讀取光達數值)|Lidar Display(光達畫面)|
 |:----:|:----:|
-|<img src="./img/lidar_mid.png" width = "200" height = "250" alt="lidar_mid" align=center />|<img src="./img/D100_lidar.png" width = "350" height = "300" alt="D100_lidar" align=center />|
+|<img src="./lidar_mid.png" width = "200" height = "250" alt="lidar_mid" align=center />|<img src="./D100_lidar.png" width = "350" height = "300" alt="D100_lidar" align=center />|
 
 </div>
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
