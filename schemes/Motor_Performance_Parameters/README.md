@@ -12,7 +12,7 @@
 
 |JGA25 371|JGA25 370 620|JGA25 370 1360|
 | :----:|:---:|:----:|
-|![image](./img/294RPM.png)|![image](./img/620RPM.png)|![image](./img/1360RPM.png)|
+|![image](./294RPM.png)|![image](./620RPM.png)|![image](./1360RPM.png)|
 |轉速:294RPM|轉速:620RPM|轉速:1360RPM|
 |扭矩:2.2Kg.cm|扭矩:0.9Kg.cm|扭矩:0.4Kg.cm|
 |消耗功率:4.2W|消耗功率:3.6W|消耗功率:3.6W|
@@ -30,8 +30,8 @@
 
 |MG90S|SG90|
 | :---:|:---:|
-|![image](./img/MG90S.png)|![image](./img/SG90.png)|
+|![image](./MG90S.png)|![image](./SG90.png)|
 </div>
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">![HOME][Return Home](../../)</div>  
