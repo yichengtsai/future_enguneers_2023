@@ -1,9 +1,8 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 # <div align="center">(BOM)Bill Of Materials(汽車零件清單)</div> 
 <div class="table_out">
 <table width: 100%; >
 <tr>
-  <td valign="top" ><img src=./img/modle.png></td>
+  <td valign="top" ><img src=./modle.png></td>
   <td >
 - JGA25-370 Motor <br>
 - MG90S Servo Motor <br>
@@ -67,4 +66,4 @@
 </div>
 
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
