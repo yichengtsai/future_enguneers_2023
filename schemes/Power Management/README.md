@@ -1,8 +1,7 @@
-# <div align="center"><img src=../../other/img/logo.jpg></img>2023WRO Future Engineers Fire In Half </div>
 ## <div align="center">Power Management(電源管理)</div> 
 
 - ### 供電結構圖 
-![image](./img/power_supply_system.png) 
+![image](./power_supply_system.png) 
 
 ### 中文
 - 在車輛移動的過程中，持續供應電力是必要的，特別是驅動直流馬達所需的12V電源。為了滿足這個需求，我們有兩種電池選擇：鋰離子電池（18650）和鋰聚合電池（3S），因為考慮到車輛的空間問題，而18650電池較占空間並且重量較重，所以我們選擇鋰聚合電池。  
@@ -22,8 +21,8 @@
 <th>18650電池</th>
 <th>鋰聚合物電池 3S</th>
 </tr>
-<td><img src="./img/18650.png" width="200" hight="500" alt=""></td>
-<td><img src="./img/3S.png" width="200" hight="500" alt=""></td>
+<td><img src="./18650.png" width="200" hight="500" alt=""></td>
+<td><img src="./3S.png" width="200" hight="500" alt=""></td>
 <tr>
 </tr>
 </table>
@@ -37,8 +36,8 @@
 <th>LM2596 DC-DC可調降壓模組</th>
 <th>恆壓恆流降壓電源模組</th>
 </tr>
-<td><img src="./img/3AStep-down.png" width="200" alt=""></td>
-<td><img src="./img/5AStep-down.png" width="200" alt=""></td>
+<td><img src="./3AStep-down.png" width="200" alt=""></td>
+<td><img src="./5AStep-down.png" width="200" alt=""></td>
 <tr>
 </tr>
 </table>
@@ -53,11 +52,11 @@
 <th>L298N馬達驅動模組</th>
 <th>L293D馬達驅動IC</th>
 </tr>
-<td><img src="./img/L298N.png" width="200" alt=""></td>
-<td><img src="./img/L293D.png" width="200" alt=""></td>
+<td><img src="./L298N.png" width="200" alt=""></td>
+<td><img src="./L293D.png" width="200" alt=""></td>
 <tr>
 </tr>
 </table>
 </div>
 
-# <div align="center">![HOME](../../other/img/Home.jpg)[Return Home](../../)</div>  
+# <div align="center">[Return Home](../../)</div>  
